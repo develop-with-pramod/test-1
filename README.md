@@ -1,7 +1,7 @@
 # USB Device Control & Monitoring Framework
 
 <p align="center">
-  <img src="logo_png.png" alt="USB Security Framework Logo" width="200">
+  <img src="README_LOGO.png" alt="USB Security Framework Logo" width="200">
 </p>
 
 A powerful, robust Windows 11 security tool designed to detect, control, and audit USB mass storage device usage. Featuring a modern CustomTkinter GUI, it provides real-time monitoring, automated blocking of unauthorized devices, and detailed file activity logging.
